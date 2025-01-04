@@ -1,0 +1,12 @@
+name: Web-Observatory-SVP
+title: Web-Observatory-SVP
+username: vlarobbyksap
+account: vlarobbyksap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13646886
+bundleId: 9605668
+url: https://vlarobbyksap.shinyapps.io/Web-Observatory-SVP/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
